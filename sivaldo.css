@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+	font-family: 'ZCOOL XiaoWei', serif;
+	background-color: blue;
+}
+.t1{
+	background-color:  red;
+	display:inline;
+	margin-left: 475px;
+}
+.t2{
+	background-color: green;
+	display:inline;
+	margin-left: 30px;
+}
+.t3{
+	background-color: pink;
+	display:inline;
+	margin-left: 30px;
+}
+.t4{
+	background-color: gray;
+	display:inline;
+	margin-left: 30px;
+}
+.m1{
+	box-shadow: 10px 10px 7px;
+	margin: 10px;
+	margin-left: 265px;
+}
+.m2{
+	box-shadow: 10px 10px 7px;
+	margin: 10px;
+	margin-left: 265px;
+}
+.p{
+	margin-left: 30px
+}
